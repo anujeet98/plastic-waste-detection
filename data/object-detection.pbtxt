@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'lays'
+}
+
+item {
+  id: 2
+  name: 'bingo'
+}
+
+item {
+  id: 3
+  name: 'kurkure'
+}
+
+item {
+  id: 4
+  name: 'too yumm'
+}
+
+item {
+  id: 5
+  name: 'nutrela'
+}
+
+item {
+  id: 6
+  name: 'coca cola'
+}
